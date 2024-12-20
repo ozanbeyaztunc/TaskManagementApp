@@ -70,3 +70,4 @@ C:\Users\Ozan\Cse415FinalProject\TaskManagementApp\obj\Debug\net8.0\refint\TaskM
 C:\Users\Ozan\Cse415FinalProject\TaskManagementApp\obj\Debug\net8.0\TaskManagementApp.pdb
 C:\Users\Ozan\Cse415FinalProject\TaskManagementApp\obj\Debug\net8.0\TaskManagementApp.genruntimeconfig.cache
 C:\Users\Ozan\Cse415FinalProject\TaskManagementApp\obj\Debug\net8.0\ref\TaskManagementApp.dll
+C:\Users\Ozan\Cse415FinalProject\TaskManagementApp\obj\Debug\net8.0\TaskManagementApp.sourcelink.json
